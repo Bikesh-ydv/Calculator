@@ -8,3 +8,7 @@ This is a basic calculator built using **HTML**, **CSS**, and **JavaScript**. It
 - Responsive design
 - User-friendly interface
 - Real-time calculation display
+
+  ## 🚀 Live Demo
+
+[Play the Snake Game Here](https://bikesh-ydv.github.io/Calculator/) 
